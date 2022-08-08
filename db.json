@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "Mobile",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 60,
+      "comment": "RBRAN DNEREW!",
+      "date": "2022-08-07T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Computer",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 125,
+      "comment": "Brand New Sec hand computer!",
+      "date": "2022-08-07T21:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
