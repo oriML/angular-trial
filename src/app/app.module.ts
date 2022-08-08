@@ -10,6 +10,7 @@ import { MaterialModule } from './material/material.module';
 import { DialogComponent } from './components/dialog/dialog.component';
 import { AppbarComponent } from './components/appbar/appbar.component';
 import { HomeComponent } from './pages/home/home.component';
+import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -23,6 +24,7 @@ import { HomeComponent } from './pages/home/home.component';
     AppRoutingModule,
     BrowserAnimationsModule,
     MaterialModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
